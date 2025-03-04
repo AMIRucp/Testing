@@ -1,0 +1,829 @@
+[
+  {
+    "signature": "2kRZnJ1fp35kEQPTJV1vaC7bdi3FBKtX2tUPWK6qEwoC6VHaAMH3866ZEDh91bCww32cPWG6cWSJTstfXEqMVdAJ",
+    "timestamp": "2025-03-04T06:04:01.094Z",
+    "amountSOL": 0.881495,
+    "sourceAccount": "YQ2dtDRfkt1twbiAV9pnGKev9zSGhr1tmAXqaE3yHNs",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 1523.6578100000042,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 300784.588391,
+        "postBalance": 299260.930581
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 0.8814899999999852,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 172.700213356,
+        "postBalance": 173.581703356
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 1523.65780999884,
+        "decimals": 6,
+        "owner": "YQ2dtDRfkt1twbiAV9pnGKev9zSGhr1tmAXqaE3yHNs",
+        "preBalance": 9499692.746981,
+        "postBalance": 9501216.404791
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "4kNCh9QVFcdeZicEVkPrB9RgU7fgjqsKQmkEQL3bu5d5VM6fxLLbCLGaK6o5nzQ9xb3pPKZfSJqVGjHHmVQe6bX4",
+    "timestamp": "2025-03-04T06:04:01.099Z",
+    "amountSOL": 1.686575,
+    "sourceAccount": "2P2DMecspbnBrHRQ83c4dmTNwkix4PB6AsYcQ7VQqynJ",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 2872.5952439999674,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 299260.930581,
+        "postBalance": 296388.335337
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 1.6865700000000174,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 173.581703356,
+        "postBalance": 175.268273356
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 2872.595244,
+        "decimals": 6,
+        "owner": "2P2DMecspbnBrHRQ83c4dmTNwkix4PB6AsYcQ7VQqynJ",
+        "preBalance": 33.978596,
+        "postBalance": 2906.57384
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "3TfwpWcqSUMYjRJN2dFXqqew4d2fYSvF5HfkRzATcvU5HJ4sbGextm4qMz8fSYVxNAJ6vYdHqm5xGCDG8N6iDJZG",
+    "timestamp": "2025-03-04T06:04:01.101Z",
+    "amountSOL": 3.567855,
+    "sourceAccount": "DVYAAXoS5oSDtFANc6uVtcBuH5CQ7Nzom7GKtaYZP5UC",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 5898.573748000024,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 296388.335337,
+        "postBalance": 290489.761589
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 3.567849999999993,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 175.268273356,
+        "postBalance": 178.836123356
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 5898.573748,
+        "decimals": 6,
+        "owner": "DVYAAXoS5oSDtFANc6uVtcBuH5CQ7Nzom7GKtaYZP5UC",
+        "preBalance": 0.006516,
+        "postBalance": 5898.580264
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "4foG4hjZUm1W2Se8knrWSNBewZrJozVYDDSEAtE9tMyHqixzEDz6jU3Zi8pL5NdFb3ghnCDnjG7XTG2ejnZ5a1iT",
+    "timestamp": "2025-03-04T06:04:01.101Z",
+    "amountSOL": 1.387705,
+    "sourceAccount": "Gw1UHeXyFh2SJzAsy1TGHGvDnwwxi1aG2bL2mt6KEPmV",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 2231.1844990000245,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 290489.761589,
+        "postBalance": 288258.57709
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 1.3876999999999953,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 178.836123356,
+        "postBalance": 180.223823356
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "GFkabDPGeFAdCu6Bh7GQdqe3dyfDWR71btTsMwx4Je3o",
+        "amount": 2231.184499,
+        "decimals": 6,
+        "owner": "Gw1UHeXyFh2SJzAsy1TGHGvDnwwxi1aG2bL2mt6KEPmV",
+        "preBalance": 0.009863,
+        "postBalance": 2231.194362
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "3gS9RyrmyXAGYLJZ2PduQo1bdzkaAxSSYKfcLtQsKuymrp3RoW2Z1WMZUq8SjqoE6SXFjDg6jnsyJ7Lmg4qT5aNa",
+    "timestamp": "2025-03-04T06:04:01.101Z",
+    "amountSOL": 1.0159,
+    "sourceAccount": "D4W4GWQ1UTg83sgxGoZss8sD3S1EK7Q47qrMeJeDQZmB",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "AwgBZ1eGrPcrGLBvvgj2RA6oFichvQKTXP9HtFWLpump",
+        "amount": 4024191.3846600056,
+        "decimals": 6,
+        "owner": "8gj52Z3ViVeWbaftkcRsQNbJwH47c6FXjtSwsshZB9Hk",
+        "preBalance": 290745760.210411,
+        "postBalance": 286721568.825751
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "AwgBZ1eGrPcrGLBvvgj2RA6oFichvQKTXP9HtFWLpump",
+        "amount": 4024191.38466,
+        "decimals": 6,
+        "owner": "D4W4GWQ1UTg83sgxGoZss8sD3S1EK7Q47qrMeJeDQZmB",
+        "preBalance": null,
+        "postBalance": 4024191.38466
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "23UMereDkxwWDQyJoiaDYd7Vhi5jer6tyoJ3NqKR9bcuyyn8kiNMtCXkf49WPTR6eeLXQ2aVcZ15SE6hZvrTjxdE",
+    "timestamp": "2025-03-04T06:04:01.140Z",
+    "amountSOL": 1.935489406,
+    "sourceAccount": "DhLPHfDofyck4MQ55hAwv18YmSpemtEpDkg9V1RRGX74",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 1.933445126,
+        "decimals": 9,
+        "owner": "CYqzg4JgGY92cRXtAueDNdcPZPujRAeL33vdjqoJMoz6",
+        "preBalance": 0,
+        "postBalance": 1.933445126
+      }
+    ]
+  },
+  {
+    "signature": "3YejkpcZsQfwn6e4XgJrrCk4PMbSCH4UZH4WN7ek5rv99h73rn8CZtYUJgCxfYSKHfPhVTEMK2ZUds9akgwYnrd7",
+    "timestamp": "2025-03-04T06:06:30.736Z",
+    "amountSOL": 1.883833599,
+    "sourceAccount": "5gxhy3P8HHYH2aPjwUo7KNAWMCnkfctQecXZsrfPQLZu",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "8Hg96R1AGDe5vKABwniVPT2LHdhZHmCTFijZAXXZpump",
+        "amount": 48137.73604499968,
+        "decimals": 6,
+        "owner": "5gxhy3P8HHYH2aPjwUo7KNAWMCnkfctQecXZsrfPQLZu",
+        "preBalance": 2204583.287932,
+        "postBalance": 2252721.023977
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 0.005650686999985055,
+        "decimals": 9,
+        "owner": "69xpHRvBFzG5UooTszUEEcNvdEvKZeUdbxLE2wXUbLar",
+        "preBalance": 139.499103716,
+        "postBalance": 139.504754403
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 1.8779118729999027,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 810.846864682,
+        "postBalance": 812.724776555
+      },
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "8Hg96R1AGDe5vKABwniVPT2LHdhZHmCTFijZAXXZpump",
+        "amount": 48137.73604500294,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 20885195.272805,
+        "postBalance": 20837057.53676
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: ProxySwapBaseIn"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "45mauBgHRWNtccSeBG8B1odhoRGCbRYgo52tZWAxjzdnHTvk1cD5r6dt1GEycTu2sy8R4Pk1e57mifDcRz7R4Qya",
+    "timestamp": "2025-03-04T06:06:30.860Z",
+    "amountSOL": 1.02813428,
+    "sourceAccount": "Daep4MwSBHRDUZNExiVAqXGzuhQYfNx1N858q6P12pJr",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "AysMusZthAtMA79HN3N9psePuqjV8s7TuJodrDqXpump",
+        "amount": 18990580.249734044,
+        "decimals": 6,
+        "owner": "2XsVhbQvitr4kzUVpYbaF6SoKamuPsY5n2PMciit4Yg2",
+        "preBalance": 718805240.550886,
+        "postBalance": 699814660.301152
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "AysMusZthAtMA79HN3N9psePuqjV8s7TuJodrDqXpump",
+        "amount": 18990580.249734,
+        "decimals": 6,
+        "owner": "Daep4MwSBHRDUZNExiVAqXGzuhQYfNx1N858q6P12pJr",
+        "preBalance": 0,
+        "postBalance": 18990580.249734
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "3psP55aPVwZiZRu6X9YPDx7FDncBC2HJ3euNWXNJRna56ukTF5e3LhD8jSDu1MqH89jTLj1gfEqK2gJmHNS5YoaQ",
+    "timestamp": "2025-03-04T10:24:55.981Z",
+    "amountSOL": 0.872945025,
+    "sourceAccount": "NbF1WFGpK5CkyE5E3eRDKWqGHaonvLQMRFAJfRTow6u",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "9y7hRy8sXzcVexuRURtFNVKQaZr9gxQ62Z7rswwD5zMT",
+        "amount": 161325.5583200003,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 3270023.739283,
+        "postBalance": 3108698.180963
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 0.8729400250000019,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 16.77925572,
+        "postBalance": 17.652195745
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "9y7hRy8sXzcVexuRURtFNVKQaZr9gxQ62Z7rswwD5zMT",
+        "amount": 161325.5583199989,
+        "decimals": 6,
+        "owner": "NbF1WFGpK5CkyE5E3eRDKWqGHaonvLQMRFAJfRTow6u",
+        "preBalance": 8979440.377226,
+        "postBalance": 9140765.935546
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "3MHqiUTLLctxPgXqffRzA2sT4HZJNsVg8B55vHkVVkKE512VqEw13Spj46phgBzew1d97LsqNDomvaRGBhymcNuN",
+    "timestamp": "2025-03-04T10:24:56.227Z",
+    "amountSOL": 0.515066222,
+    "sourceAccount": "ELtvABrTBYQQY2JfqxpJg4RHFJFREwc4xrLLduf5AmjL",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "HFAFMiFp45jK191yu7dsuGfoBBcXyoRewbzKwmR1pump",
+        "amount": 6331810.015804052,
+        "decimals": 6,
+        "owner": "DQUstS6iqLcch8zwnxk6TULZkCUAamJPyTSg6sqKVVft",
+        "preBalance": 568642187.882017,
+        "postBalance": 562310377.866213
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "HFAFMiFp45jK191yu7dsuGfoBBcXyoRewbzKwmR1pump",
+        "amount": 6331810.015804,
+        "decimals": 6,
+        "owner": "ELtvABrTBYQQY2JfqxpJg4RHFJFREwc4xrLLduf5AmjL",
+        "preBalance": 8005871.001835,
+        "postBalance": 14337681.017639
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "4urnaRJG2PoE4qUgdfkrMS15GFLFv9YYuZqC7psSshNtazdS4c5sorRMoftNBNhrdd4ySFkwoLpcv9qnXjaDGReH",
+    "timestamp": "2025-03-04T10:28:50.376Z",
+    "amountSOL": 1.3197951,
+    "sourceAccount": "3c8zNLkRMt6DUQwhqCFZyPAqGkwMXcNNugB7ahStL95K",
+    "tokens": []
+  },
+  {
+    "signature": "xWu6U7tVAtqwUmfBpF3spZAgEa8uHzWDiHcutKYy4NaKdTFCViUysY3x38iBKp8UjctepXN8VY4ty3eqBHYTQQL",
+    "timestamp": "2025-03-04T10:28:51.390Z",
+    "amountSOL": 1.004044279,
+    "sourceAccount": "9ytZ1pT5fFA4FimePoKZjF2L65h7KmgcbX76fcqn5NNu",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "5ME8zt2hHqdz9h98ZCmekvDDuVHQUM1eVRLSLEkHpump",
+        "amount": 3839824.136758983,
+        "decimals": 6,
+        "owner": "8xR6sJAtrLCS2KxuietvB8epVyi8VbmoKtBRVM4eai3U",
+        "preBalance": 284032113.186762,
+        "postBalance": 280192289.050003
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "5ME8zt2hHqdz9h98ZCmekvDDuVHQUM1eVRLSLEkHpump",
+        "amount": 3839824.136759,
+        "decimals": 6,
+        "owner": "9ytZ1pT5fFA4FimePoKZjF2L65h7KmgcbX76fcqn5NNu",
+        "preBalance": 0,
+        "postBalance": 3839824.136759
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "61mhQLvtfce24ySfS1kw61Rtdk56x6ZsNcSSduYjs9MKJi7njYEQF8G7qz6gJVHVgrGrTEGBh5P1gp81G4GGRFtj",
+    "timestamp": "2025-03-04T10:29:23.703Z",
+    "amountSOL": 0.81803625,
+    "sourceAccount": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "tokens": []
+  },
+  {
+    "signature": "2GJ5xYMbaX77Zkq3TDx5Qw792i6SWGHstd6tdsSuy8SFq3WFKZZDW5PbBeHm1ATVxLEg6V1fVLrzuEKv5ebm7qr4",
+    "timestamp": "2025-03-04T10:29:23.710Z",
+    "amountSOL": 16.599218593,
+    "sourceAccount": "H2PVM96jQomH864kZAAxRMFBZaHbdKQG2iG21v52jRxF",
+    "tokens": []
+  },
+  {
+    "signature": "4TVDyXeT9qNKYsfNohj71pE9eeqNYER7AZVLAC8LVG9HeZeQ3MEvPwidAendrQZiNET8AhiZSQj521tg8RrWQYU3",
+    "timestamp": "2025-03-04T10:29:23.947Z",
+    "amountSOL": 0.550506158,
+    "sourceAccount": "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf",
+    "tokens": []
+  },
+  {
+    "signature": "3n5VAjx9Qv5Pujj3y5byxhJXu6EDqYoq2zhNfqdxTzwzfLcGHzfZe2CgMUfTkwizj7MuE6DnJZeoxZccbH6yT1LE",
+    "timestamp": "2025-03-04T10:29:23.989Z",
+    "amountSOL": 1.000027014,
+    "sourceAccount": "A7R41Hv2CCnspShP9mbT3kyKnBpJK4pp41Fj4UiKeWkx",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 1,
+        "decimals": 9,
+        "owner": "AVzP2GeRmqGphJsMxWoqjpUifPpCret7LqWhD8NWQK49",
+        "preBalance": 4967689.497389765,
+        "postBalance": 4967690.497389765
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "W7ZF4SWVCXFXmHSVXxyWELxgEaACy6K8wcskxwX1y7y1nAus5bbRMm3HqP249xvqQPtwufPe2cuiDNDNNhWUh8H",
+    "timestamp": "2025-03-04T10:29:54.270Z",
+    "amountSOL": 1.00003,
+    "sourceAccount": "B7e7qfxJpiVWCE7MFbvCE47ETKJHn4gUhkhHqgqi6CDr",
+    "tokens": []
+  },
+  {
+    "signature": "5pCQKZFePCt74c9cfzP52nMb5qeDWfKumYtKWoF3SsXWpfxwgK3Xy6CBi1Y53NhBcUfLaCLNe7oREzzmYv7fLLVp",
+    "timestamp": "2025-03-04T10:29:54.434Z",
+    "amountSOL": 0.517044281,
+    "sourceAccount": "8w2fWLwGuiENcvKJ62jr4Vpb33NqVHgjZc5mmFv3WnnW",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 0.5,
+        "decimals": 9,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 163.140441529,
+        "postBalance": 163.640441529
+      },
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "BSLg3KXmqcVjoJ1yPJVUtjNDPC2cdAb8vYRhYTxxpump",
+        "amount": 363137.1351919919,
+        "decimals": 6,
+        "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "preBalance": 119144796.425085,
+        "postBalance": 118781659.289893
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "BSLg3KXmqcVjoJ1yPJVUtjNDPC2cdAb8vYRhYTxxpump",
+        "amount": 363137.135192,
+        "decimals": 6,
+        "owner": "8w2fWLwGuiENcvKJ62jr4Vpb33NqVHgjZc5mmFv3WnnW",
+        "preBalance": 0,
+        "postBalance": 363137.135192
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "2f8zhWKqq3dGCpGZm5nPmcCTvagkL35c99qEcAjV4z1B8e2Px3VnnhFDGUYx46FKBCfWev8qLHAonf7ptxs6x9a6",
+    "timestamp": "2025-03-04T10:29:54.434Z",
+    "amountSOL": 0.74008,
+    "sourceAccount": "7SQ3VWFPMqwbHZYvE5AzRKRsr25TU6JdfXPrBR6WnJt8",
+    "tokens": []
+  },
+  {
+    "signature": "CraPbPrjwUBCCmKHRBp8D6dyJBawfA9kKbrGKp8ZZoXNpPYiZVCpY3G6vt1RcYN3frJHPZEquWSrSSipypefsbq",
+    "timestamp": "2025-03-04T10:30:25.099Z",
+    "amountSOL": 0.9940103,
+    "sourceAccount": "A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR",
+    "tokens": []
+  },
+  {
+    "signature": "5j6ASKCMiR3ax1sc1MNqUtM6mFBNcAxndHdDeJx4c6YEXfgFR4NkAUovYF4sdsuepQM7KmwAVs28fkGcEQkQMCyV",
+    "timestamp": "2025-03-04T10:30:25.166Z",
+    "amountSOL": 1.16484732,
+    "sourceAccount": "5F2tqLNPN39HbKuooUHWwx5jn6SdVQuDYap26Ag6x7oW",
+    "tokens": []
+  },
+  {
+    "signature": "3ojZ1S7Q31A1rUhABGxnfbM4EHTQsPhsqMwSdKBzR5NDsjFFwMXdCXCCmDroFvmfgdMfmEPSxR1KMhNgmhG3URuc",
+    "timestamp": "2025-03-04T10:30:25.579Z",
+    "amountSOL": 10.000007,
+    "sourceAccount": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "tokens": []
+  },
+  {
+    "signature": "5cU9gNNHufwM9AGMj91SBftfoJWt3nh22UPxo4qy6JhHZuT9iWQJAnTizWGhMF18BBdLonTPk6rMsXn7ru7LpAky",
+    "timestamp": "2025-03-04T10:30:25.718Z",
+    "amountSOL": 0.771171723,
+    "sourceAccount": "HqYaKRgi6Rc9HzLzs5kskSLYinPeN6sJe8baNP6CeY8L",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 16763703.334360003,
+        "decimals": 6,
+        "owner": "FQq5eW26vL9uxyiYXU5YxmUvGKZhTyc5wwQbmiQqKJwV",
+        "preBalance": 777219865.784227,
+        "postBalance": 760456162.449867
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 16763703.33436,
+        "decimals": 6,
+        "owner": "HqYaKRgi6Rc9HzLzs5kskSLYinPeN6sJe8baNP6CeY8L",
+        "preBalance": 0,
+        "postBalance": 16763703.33436
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "291vR2vhv7czU46XT1Ks3GpPxBc36JF1rXUCrqJjenJnvNmrpTyQ1JxMHjdjvF3QmuWrPXBQP2ZG51deii4sFjd6",
+    "timestamp": "2025-03-04T10:30:25.719Z",
+    "amountSOL": 0.866768496,
+    "sourceAccount": "DRAmRX7BN3AfZzCmnenxiAHZbwArdZXmY6jqALzPSLDN",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 18075016.30969,
+        "decimals": 6,
+        "owner": "FQq5eW26vL9uxyiYXU5YxmUvGKZhTyc5wwQbmiQqKJwV",
+        "preBalance": 760456162.449867,
+        "postBalance": 742381146.140177
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 18075016.30969,
+        "decimals": 6,
+        "owner": "DRAmRX7BN3AfZzCmnenxiAHZbwArdZXmY6jqALzPSLDN",
+        "preBalance": 0,
+        "postBalance": 18075016.30969
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "2VLfdpJeAZj2fMwGopZedHgxdtCaNeX5MoDhzhCGJzkEd9drdw5kbn9TfyCa7gDJJoYbqeXBmK1oKDP8F3ZuHspS",
+    "timestamp": "2025-03-04T10:30:25.722Z",
+    "amountSOL": 0.877450277,
+    "sourceAccount": "HqdSxLsF4ayccTFRoAwCkddfxMACEKXSBibpCyySCd8r",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 17516883.60329902,
+        "decimals": 6,
+        "owner": "FQq5eW26vL9uxyiYXU5YxmUvGKZhTyc5wwQbmiQqKJwV",
+        "preBalance": 742381146.140177,
+        "postBalance": 724864262.536878
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 17516883.603299,
+        "decimals": 6,
+        "owner": "HqdSxLsF4ayccTFRoAwCkddfxMACEKXSBibpCyySCd8r",
+        "preBalance": 0,
+        "postBalance": 17516883.603299
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "3jq9gxCMvQXkbLfqJ7cosjCAW1kzHMiinZ7MpVKPwWt3pGW4UJLYnY4PEeEgsZNinuCE6nnKR5WCVe7yYGWnPXUK",
+    "timestamp": "2025-03-04T10:30:25.724Z",
+    "amountSOL": 0.938215357,
+    "sourceAccount": "8S1krR2axJihqGaHLXQEDnaPmwxUoJ7xwoHkieYkAE7S",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 17918686.870991945,
+        "decimals": 6,
+        "owner": "FQq5eW26vL9uxyiYXU5YxmUvGKZhTyc5wwQbmiQqKJwV",
+        "preBalance": 724864262.536878,
+        "postBalance": 706945575.665886
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "69KfmZ53xFAdYg7vtv9RHzJatLaPXGDm49nHQEs8pump",
+        "amount": 17918686.870992,
+        "decimals": 6,
+        "owner": "8S1krR2axJihqGaHLXQEDnaPmwxUoJ7xwoHkieYkAE7S",
+        "preBalance": 0,
+        "postBalance": 17918686.870992
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "2KBmRTS8LNiBgiPG1dd4mLkiRPTyFy7T1j6rqkxQkbHU2BktRSo1n9EyaYFwojgfXBXGNFFKDsYAqR5PoTPgysjE",
+    "timestamp": "2025-03-04T10:31:02.063Z",
+    "amountSOL": 0.52218022,
+    "sourceAccount": "BsBE3uKKHjahe6N711CLTEvWge78ZLHg1so7953K9zdE",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "HFZydCXFLHRg3Wp2j3jusuBESPVYbFtpfU9EvMgbpump",
+        "amount": 5950521.829712987,
+        "decimals": 6,
+        "owner": "9YFYkbNhYsVZuZTnd8Z3ujt6C5GHcToyf76FrdgmoSKd",
+        "preBalance": 539936753.644048,
+        "postBalance": 533986231.814335
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "HFZydCXFLHRg3Wp2j3jusuBESPVYbFtpfU9EvMgbpump",
+        "amount": 5950521.829713,
+        "decimals": 6,
+        "owner": "BsBE3uKKHjahe6N711CLTEvWge78ZLHg1so7953K9zdE",
+        "preBalance": 0,
+        "postBalance": 5950521.829713
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Swap2"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  },
+  {
+    "signature": "2ajrNmopwBbRiXqfR8gwrQT6Q5rM8FYBKSL12DvbhTnRxP166yXWGU7TwQ1dEDYg7WeU6rt5bK9EYF2hLLmBupyw",
+    "timestamp": "2025-03-04T10:31:02.118Z",
+    "amountSOL": 1.830012577,
+    "sourceAccount": "AqVyjNfb669ZotpBiUsA1x3ra3dc3KduuBngEQw18StW",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "So11111111111111111111111111111111111111112",
+        "amount": 1.8300000000000054,
+        "decimals": 9,
+        "owner": "2AQ9JScpaNPHfjzYREbFmJVcWPaAQEXDw6DkK4x1e1GE",
+        "preBalance": 45.785,
+        "postBalance": 47.615
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "29euoHPGurpKCTgyGgcMA42Thng4WBCd1BYXbRrJf7kB",
+        "amount": 96.08000000000004,
+        "decimals": 2,
+        "owner": "beamazjPnFT3JQoe16HjUxkpmHFfsHY6dTqf3VwBXzq",
+        "preBalance": 656.54,
+        "postBalance": 752.62
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "AN3Ve9D1vtZDmEL11GCNKo5zNweif5eryg9E4GrUnLch",
+        "amount": 21116620.467956305,
+        "decimals": 9,
+        "owner": "AqVyjNfb669ZotpBiUsA1x3ra3dc3KduuBngEQw18StW",
+        "preBalance": 349137303.9356451,
+        "postBalance": 370253924.4036014
+      },
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "AN3Ve9D1vtZDmEL11GCNKo5zNweif5eryg9E4GrUnLch",
+        "amount": 21116620.467956364,
+        "decimals": 9,
+        "owner": "2AQ9JScpaNPHfjzYREbFmJVcWPaAQEXDw6DkK4x1e1GE",
+        "preBalance": 550760110.6827718,
+        "postBalance": 529643490.21481544
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Swap"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: TransferChecked"
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: TransferChecked"
+      }
+    ]
+  },
+  {
+    "signature": "8gxrxbww2L4fAmjpDwxb3FwngU6ngk8sridNiB2QE12bbxrGcP5txerBCugdsuY7FntKbJViSpNrtSDNcjPz497",
+    "timestamp": "2025-03-04T10:31:02.131Z",
+    "amountSOL": 0.502004999,
+    "sourceAccount": "HyRkRXs7X64wuPnumv81UGFdBgReyAyvbtYzFwjwmZ7r",
+    "tokens": [
+      {
+        "type": "token_trade",
+        "action": "sell",
+        "mint": "HFZydCXFLHRg3Wp2j3jusuBESPVYbFtpfU9EvMgbpump",
+        "amount": 5558088.188537002,
+        "decimals": 6,
+        "owner": "9YFYkbNhYsVZuZTnd8Z3ujt6C5GHcToyf76FrdgmoSKd",
+        "preBalance": 533986231.814335,
+        "postBalance": 528428143.625798
+      },
+      {
+        "type": "token_trade",
+        "action": "buy",
+        "mint": "HFZydCXFLHRg3Wp2j3jusuBESPVYbFtpfU9EvMgbpump",
+        "amount": 5558088.188537001,
+        "decimals": 6,
+        "owner": "HyRkRXs7X64wuPnumv81UGFdBgReyAyvbtYzFwjwmZ7r",
+        "preBalance": 5109362.289812,
+        "postBalance": 10667450.478349
+      },
+      {
+        "type": "instruction",
+        "data": "Program log: Instruction: Transfer"
+      }
+    ]
+  }
+]
